@@ -1,0 +1,17 @@
+{
+  "name": "trillo-ecommerce_final",
+  "version": "1.0.0",
+  "description": "Ecommerce Simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server",
+    "sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Kh Mustafijur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^6.0.1"
+  }
+}
